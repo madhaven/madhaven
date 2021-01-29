@@ -1,6 +1,5 @@
 To get better, to keep developping is the general goal.
-<br>HOW is the question
-<br>and to that I say : ```Explore - Learn - Create - Perfect - Automate - Explore . . .```
+<br>HOW : ```Explore - Learn - Create - Perfect - Automate - Explore . . .```
 * To explore is to know. Only when we know can we really start to understand how and why things are the way they are.
 * To Learn is to dedicate ourselves to this source of understanding. To dig deeper to every node in the tree and going to the extent where there is no case of uncertainty in the best way possible.
 * To Create is to apply and experiment, to find out what happens and to make things happen with whatever we know, take risks and as Nike says, ```just do it```
