@@ -1,1 +1,8 @@
-```Explore - Learn - Create - Perfect - Automate - Explore . . .```
+```
+while (Alive):
+    Explore()
+    Learn()
+    Create()
+    Perfect()
+    Automate()
+```
